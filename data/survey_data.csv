@@ -1,4 +1,4 @@
-﻿Date ,Plot #,Sex,Weight (g),Species,Calibrated
+﻿date ,plot #,sex,weight_g,species,calibrated
 2013-07-16,2,F,NULL,DM,TRUE
 2013-07-16,7,M,33,DM,TRUE
 2013-07-16,3,M,NULL,DM,TRUE

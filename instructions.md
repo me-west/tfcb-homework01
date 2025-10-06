@@ -88,4 +88,5 @@ Export this as a tab-delimited `.csv` text file with Unix line endings.
 
 Commit the modified `.xlsx` file and the `.csv` file and publish to your public GitHub repository.
 
+<https://github.com/me-west/tfcb-homework01/blob/main/data/survey_data.csv>
 _Include the link to your `.csv` file on GitHub here._
